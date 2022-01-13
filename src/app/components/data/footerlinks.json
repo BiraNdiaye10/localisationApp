@@ -1,0 +1,54 @@
+[
+    {
+        "id":1,
+        "title":"Resources",
+        "items":[
+            {
+                "title":"Saas Development",
+                "link":"/about"
+            },
+            {
+                "title":"Our Products",
+                "link":"/services"
+            },
+            {
+                "title":"User Strategy",
+                "link":"/about"
+            },
+            {
+                "title":"Blogs & Guides",
+                "link":"/blog-grid"
+            },
+            {
+                "title":"Premium Support",
+                "link":"/contact"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "title":"Company",
+        "items":[
+            {
+                "title":"About Landio",
+                "link":"/about"
+            },
+            {
+                "title":"Contact & Support",
+                "link":"/contact"
+            },
+            {
+                "title":"Success History",
+                "link":"/about"
+            },
+            {
+                "title":"Setting & Privacy",
+                "link":"/about"
+            },
+            {
+                "title":"Company History",
+                "link":"/about"
+            }
+        ]
+    }
+]

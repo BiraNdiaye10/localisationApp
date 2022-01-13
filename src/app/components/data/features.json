@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "image":"assets/img/services/app-feature-1.png",
+        "title":"Retrouver un Bus pour votre deplacement",
+        "active":true
+    },
+    {
+        "id":2,
+        "image":"assets/img/services/app-feature-2.png",
+        "title":"Localiser votre bus pour votre déplacement",
+        "active":false
+    }
+]
