@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Easy Editable",
+        "title": "facile à utiliser",
         "imageicon": "assets/img/feature/service-icon-1.png",
         "vectorimage": "assets/img/services/service-thumbnail-1.png",
         "image": "assets/img/services/service-thumbnail-1.jpg",
@@ -24,7 +24,7 @@
     },
     {
         "id": 2,
-        "title": "Fully Responsive",
+        "title": "Gagner en temps",
         "imageicon": "assets/img/feature/service-icon-2.png",
         "vectorimage": "assets/img/services/service-thumbnail-2.png",
         "image": "assets/img/services/service-thumbnail-2.jpg",
@@ -47,7 +47,7 @@
     },
     {
         "id": 3,
-        "title": "Server Solutions",
+        "title": "solutions 2",
         "imageicon": "assets/img/feature/service-icon-3.png",
         "vectorimage": "assets/img/services/service-thumbnail-3.png",
         "image": "assets/img/services/service-thumbnail-3.jpg",
@@ -70,7 +70,7 @@
     },
     {
         "id": 4,
-        "title": "Creative Design",
+        "title": "solution 3",
         "imageicon": "assets/img/feature/service-icon-4.png",
         "vectorimage": "assets/img/services/service-thumbnail-4.png",
         "image": "assets/img/services/service-thumbnail-4.jpg",
@@ -93,7 +93,7 @@
     },
     {
         "id": 5,
-        "title": "Well Documentation",
+        "title": "solution 4",
         "imageicon": "assets/img/feature/service-icon-5.png",
         "vectorimage": "assets/img/services/service-thumbnail-5.png",
         "image": "assets/img/services/service-thumbnail-1.jpg",
@@ -116,7 +116,7 @@
     },
     {
         "id": 6,
-        "title": "Quick Linkup",
+        "title": "solution 5",
         "imageicon": "assets/img/feature/service-icon-6.png",
         "vectorimage": "assets/img/services/service-thumbnail-6.png",
         "image": "assets/img/services/service-thumbnail-2.jpg",
