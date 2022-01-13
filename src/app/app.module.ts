@@ -10,6 +10,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PreloaderComponent } from './preloader/preloader.component';
+import { GooglePlaceModule } from 'ngx-google-places-autocomplete';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,7 @@ import { PreloaderComponent } from './preloader/preloader.component';
     PreloaderComponent
   ],
   imports: [
-    BrowserModule,
+    BrowserModule,GooglePlaceModule,
     FormsModule,
     AppRoutingModule,
     BrowserAnimationsModule,
