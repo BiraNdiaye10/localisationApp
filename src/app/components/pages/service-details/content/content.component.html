@@ -7,7 +7,7 @@
                     <div [innerHtml]="item.htmltext"></div>
                     <div class="icon-boxes-wrapper">
                         <div class="row">
-                            <!-- Data -->
+                            
                             <div class="col-lg-3 col-md-6" *ngFor="let data of getProcess(item.workprocess)">
                                 <div class="single-iconic-box iconic-box-v3 wow fadeInUp" [ngClass]="item.boxstyle" data-wow-delay="0.4s">
                                     <div class="iconic-box-icon">
@@ -21,10 +21,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <!-- Data -->
-                        </div> <!-- /.row -->
-                    </div> <!-- /.icon-boxes-wrapper -->
-                    <div class="customer-faq">
+                            
+                        </div> 
+                    </div> 
+                    <!-- <div class="customer-faq">
                         <div class="row align-items-center">
                             <div class="col-lg-6">
                                 <div class="customer-faq-thumbnail animate-square-zoom wow fadeInUp" data-wow-delay="0ms" data-wow-duration="2500ms">
@@ -34,7 +34,7 @@
                             <div class="col-lg-6">
                                 <div class="section-accordion section-accordion-v2">
                                     <h3 class="faq-accordion-title">Frequently Asked Quesations</h3>
-                                    <!-- /.accordion -->
+                                   
                                     <ngb-accordion [closeOthers]="true" activeIds="static-1">
                                         <ngb-panel id="static-{{1+i}}" *ngFor="let data of getFaqs(item.faqs);let i = index">
                                             <ng-template ngbPanelTitle>
@@ -45,16 +45,16 @@
                                             </ng-template>
                                         </ngb-panel>
                                     </ngb-accordion>
-                                    <!-- /.accordion -->
-                                </div> <!-- /.section-accordion -->
+                                   
+                                </div> 
                             </div>
                         </div>
-                    </div> <!-- /.customer-faq -->
-                    <blockquote>
+                    </div>  -->
+                    <!-- <blockquote>
                         {{item.quote}}
-                    </blockquote>
+                    </blockquote> -->
                 </div>
             </div>
-        </div> <!-- /.row -->
-    </div> <!-- /.container -->
+        </div> 
+    </div> 
 </section>

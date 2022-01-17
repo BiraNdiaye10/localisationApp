@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "facile à utiliser",
+        "title": "Retrouver son bus",
         "imageicon": "assets/img/feature/service-icon-1.png",
         "vectorimage": "assets/img/services/service-thumbnail-1.png",
         "image": "assets/img/services/service-thumbnail-1.jpg",
@@ -24,7 +24,7 @@
     },
     {
         "id": 2,
-        "title": "Gagner en temps",
+        "title": "Localiser son bus en temps reel ",
         "imageicon": "assets/img/feature/service-icon-2.png",
         "vectorimage": "assets/img/services/service-thumbnail-2.png",
         "image": "assets/img/services/service-thumbnail-2.jpg",

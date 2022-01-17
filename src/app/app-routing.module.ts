@@ -8,7 +8,7 @@ const routes: Routes = [
   { path: 'home-v3', loadChildren: () => import('./components/pages/home-three/home-three.module').then(m => m.HomeThreeModule), data: { breadcrumb: "Homepage" } }, 
   { path: 'home-v4', loadChildren: () => import('./components/pages/home-four/home-four.module').then(m => m.HomeFourModule), data: { breadcrumb: "Homepage" } }, 
   { path: 'home-v5', loadChildren: () => import('./components/pages/home-five/home-five.module').then(m => m.HomeFiveModule), data: { breadcrumb: "Homepage" } }, 
-  { path: 'home-v6', loadChildren: () => import('./components/pages/home-six/home-six.module').then(m => m.HomeSixModule), data: { breadcrumb: "Homepage" } }, 
+  { path: 'localisation', loadChildren: () => import('./components/pages/home-six/home-six.module').then(m => m.HomeSixModule), data: { breadcrumb: "Homepage" } }, 
   // Services
   { path: 'services', loadChildren: () => import('./components/pages/services/services.module').then(m => m.ServicesModule), data: { breadcrumb: "Services" } },
   { path: 'service-details/:id', loadChildren: () => import('./components/pages/service-details/service-details.module').then(m => m.ServiceDetailsModule), data: { breadcrumb: "Service Details" } },
